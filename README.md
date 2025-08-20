@@ -45,8 +45,8 @@ An **automatic face recognition-based attendance system** designed to improve em
 
 ## 📜 License
 
-This project is licensed under the MIT License.
-It also makes use of the following models/tools under MIT License:
-InsightFace (buffalo_l): https://github.com/deepinsight/insightface
-Ultra Light Face Detector: https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+This project is licensed under the MIT License. <br />
+It also makes use of the following models/tools under MIT License: <br />
+InsightFace (buffalo_l): https://github.com/deepinsight/insightface <br />
+Ultra Light Face Detector: https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB <br />
 See the LICENSE file for more details.
